@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33513.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RazorPagesMovie", "RazorPagesMovie\RazorPagesMovie.csproj", "{A3559055-0659-424B-8BEE-A093B5CC21DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A3559055-0659-424B-8BEE-A093B5CC21DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3559055-0659-424B-8BEE-A093B5CC21DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3559055-0659-424B-8BEE-A093B5CC21DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3559055-0659-424B-8BEE-A093B5CC21DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BF986A2E-B320-4009-AABE-7807F1D24248}
+	EndGlobalSection
+EndGlobal
