@@ -11,7 +11,7 @@ public class Movie
     [Required]
     public string Title { get; set; } = string.Empty;
 
-    // [Display(Name = "Release Date")]
+    [Display(Name = "Release Date")]
     [DataType(DataType.Date)]
     public DateTime ReleaseDate { get; set; }
 
